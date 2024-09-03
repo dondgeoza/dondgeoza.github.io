@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dondgeoza.github.io/sitemap.html.gz
+Sitemap: https://dondgeoza.github.io/app/sitemap.html.gz
+Sitemap: https://dondgeoza.github.io/assets/sitemap.html.gz
+Sitemap: https://dondgeoza.github.io/css/sitemap.html.gz
+Sitemap: https://dondgeoza.github.io/includes/sitemap.html.gz
+Sitemap: https://dondgeoza.github.io/item/sitemap.html.gz
+Sitemap: https://dondgeoza.github.io/src/sitemap.html.gz
